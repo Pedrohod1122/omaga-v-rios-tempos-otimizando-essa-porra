@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BoxyBoo.png">
+<SubTexture name="BoxyDown0000" x="3468" y="331" width="594" height="327" frameX="-174" frameY="-364" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyDown0001" x="3468" y="0" width="608" height="331" frameX="-187" frameY="-360" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyDown0002" x="2400" y="3007" width="610" height="341" frameX="-186" frameY="-350" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyDown0003" x="1794" y="3007" width="606" height="364" frameX="-182" frameY="-336" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyDown0004" x="0" y="3007" width="599" height="386" frameX="-179" frameY="-305" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyDown0005" x="1190" y="3007" width="604" height="374" frameX="-181" frameY="-317" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyDown0006" x="599" y="3007" width="591" height="375" frameX="-181" frameY="-316" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyIdle0000" x="2491" y="589" width="389" height="533" frameX="-162" frameY="-146" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyIdle0001" x="2491" y="1122" width="385" height="532" frameX="-165" frameY="-147" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyIdle0002" x="1151" y="681" width="388" height="525" frameX="-164" frameY="-154" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyIdle0003" x="0" y="2488" width="390" height="519" frameX="-162" frameY="-160" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyIdle0004" x="3071" y="0" width="397" height="507" frameX="-158" frameY="-172" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyLeft0000" x="688" y="1950" width="492" height="528" frameX="-55" frameY="-150" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyLeft0001" x="888" y="2488" width="501" height="515" frameX="-46" frameY="-163" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyLeft0002" x="2543" y="2488" width="497" height="512" frameX="-50" frameY="-166" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyLeft0003" x="1389" y="2488" width="496" height="515" frameX="-51" frameY="-163" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyLeft0004" x="390" y="2488" width="498" height="517" frameX="-49" frameY="-161" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyLeft0005" x="1180" y="1950" width="498" height="528" frameX="-49" frameY="-150" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyRight0000" x="1617" y="603" width="841" height="602" frameX="-127" frameY="-82" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyRight0001" x="1617" y="0" width="874" height="603" frameX="-125" frameY="-81" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyRight0002" x="0" y="1349" width="877" height="601" frameX="-123" frameY="-83" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyRight0003" x="1454" y="1349" width="846" height="593" frameX="-125" frameY="-91" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyRight0004" x="0" y="1950" width="688" height="538" frameX="-113" frameY="-146" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyRight0005" x="1885" y="2488" width="658" height="515" frameX="-109" frameY="-169" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyRight0006" x="2288" y="1950" width="627" height="520" frameX="-112" frameY="-164" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyRight0007" x="1678" y="1950" width="610" height="522" frameX="-127" frameY="-162" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyUp0000" x="1106" y="0" width="511" height="668" frameX="-95" frameY="-15" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyUp0001" x="0" y="0" width="546" height="681" frameX="-93" frameY="-2" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyUp0002" x="546" y="0" width="560" height="677" frameX="-94" frameY="-5" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyUp0003" x="0" y="681" width="572" height="668" frameX="-93" frameY="-13" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyUp0004" x="572" y="681" width="579" height="627" frameX="-91" frameY="-54" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyUp0005" x="877" y="1349" width="577" height="598" frameX="-91" frameY="-83" frameWidth="1000" frameHeight="700" />
+<SubTexture name="BoxyUp0006" x="2491" y="0" width="580" height="589" frameX="-90" frameY="-92" frameWidth="1000" frameHeight="700" />
+</TextureAtlas>
